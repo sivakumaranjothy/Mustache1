@@ -1,0 +1,24 @@
+canvas{
+    animation-name:example;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+
+}
+
+@keyframes example{
+    from{box-shadow:1px 1px 38px rgb(136, 136, 206)}
+    to{box-shadow:1px 1px 38px magenta}
+}
+
+.btn-success:hover{
+    background-color:darkcyan;
+}
+
+h3{
+    font-size:25px;
+}
+
+body{
+background-image: ;
+
+}
